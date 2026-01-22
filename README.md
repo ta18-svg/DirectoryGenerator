@@ -7,7 +7,7 @@
 Directory_Generator_Tool_GUI/
 ├ DirectoryGeneratorGUI.exe　#実行ファイル
 ├ logs/   # 実行するとこのフォルダに「generated_log_20260121.txt」のようなテキストログファイル 出力される
-├ DirectoryGeneratorGUI_multi.ico # フォルダに設定したアイコンデータ
+├ images/ # 設定に使用した画像データ
 ├ sector_portfolio_app.txt　#作成したいディレクトリ構成のtreeファイル
 ├ desktop.ini  #アイコンの設定ファイル
 └ README.md　# このシステムの説明
