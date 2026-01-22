@@ -1,0 +1,24 @@
+sector_portfolio_app/
+├─ README.md
+├─ requirements.txt
+├─ main.py
+├─ app/
+│  ├─ __init__.py
+│  ├─ constants.py
+│  ├─ models.py
+│  ├─ db.py
+│  ├─ csvio.py
+│  ├─ calc.py
+│  ├─ export.py
+│  ├─ report.py
+│  ├─ table_model.py
+│  ├─ plot.py
+│  └─ ui_main.py
+├─ data/
+│  ├─ sample_holdings.csv
+│  ├─ sample_fund_sector_allocations.csv
+│  └─ sample_etf_sector_allocations.csv
+├─ out/
+│  └─ 
+└─ build/
+   └─
