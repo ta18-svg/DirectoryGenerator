@@ -59,3 +59,9 @@ sector_portfolio_app/  #作成されるフォルダ名になります。
 ### 1.8 ディレクトリが作成される。
 ![dir2](images/dir2.png)<br>
 ※ディレクトリはコピーして使用してください。
+### 2. ディレクトリアイコンを反映する
+ディレクトリ内でコマンド入力
+cd .
+attrib +s .
+attrib +h +s desktop.ini
+
