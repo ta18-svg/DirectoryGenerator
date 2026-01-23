@@ -61,7 +61,7 @@ sector_portfolio_app/  #作成されるフォルダ名になります。
 ※ディレクトリはコピーして使用してください。
 ### 2. ディレクトリアイコンを反映する
 ディレクトリ内でコマンド入力
-cd .
-attrib +s .
-attrib +h +s desktop.ini
+cd .<br>
+attrib +s .<br>
+attrib +h +s desktop.ini<br>
 
